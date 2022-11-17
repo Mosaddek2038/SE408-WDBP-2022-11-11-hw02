@@ -1,0 +1,25 @@
+#menubar {
+    margin: 0px;
+    width: 99.3%;
+    height: fit-content;
+    padding: 5px;
+    background-color: #afe1af;
+}
+
+#menubar ul {
+    text-align:left;
+}
+
+#menubar ul li {
+    list-style: none;
+    display: inline-flex;
+
+}
+
+#menubar ul li a {
+    text-decoration: none;
+    background-color: green;
+    color: white;
+    padding: 5px;
+    margin: 2px;
+}
